@@ -49,24 +49,13 @@
     "  [Orcid](https://orcid.org/0000-0002-9289-7462),\n",
     "  [wordpress](https://01law.wordpress.com/),\n",
     "  [GitRepos](https://github.com/songqsh)\n",
-    "\n",
-    "- [Seminar on Financial Math at WPI](http://labs.wpi.edu/cims/seminar-fm/)\n",
-    "\n",
-    "- [Collquium at WPI Math](https://sites.google.com/site/wpimacolloquium/)\n",
-    "\n",
-    "- Workshop on Stochastic Analysis and Related Fields: \n",
-    "[2020](https://sites.google.com/view/stochastic-analysis), [2021](https://sites.google.com/view/stochastic-analysis2021)\n",
-    "\n",
+    "  \n",
     "- [MQP2019](https://github.com/songqsh/MQP2019),\n",
-    "\n"
+    "\n",
+    "- [Seminar on Financial Seminar at WPI Math](http://labs.wpi.edu/cims/seminar-fm/)\n",
+    "\n",
+    "- [Collquium at WPI Math](https://sites.google.com/site/wpimacolloquium/)\n"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
@@ -90,7 +79,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.7.7"
+   "version": "3.7.4"
   }
  },
  "nbformat": 4,
