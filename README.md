@@ -7,7 +7,7 @@
     "id": "h7maORI3ssau"
    },
    "source": [
-    "# Kaden Chen"
+    "# Qingshuo Song"
    ]
   },
   {
@@ -16,7 +16,10 @@
    "source": [
     "__Contacts__\n",
     "\n",
-    "   - Westborough High School, chenkad26@student.westboroughk12.org"
+    "   - Associate professor, \n",
+    "   [Math Dept](https://www.wpi.edu/academics/departments/mathematical-sciences) of\n",
+    "   [WPI](https://www.wpi.edu/)\n",
+    "   - 202A Stratton Hall (office location), +1-508-831-6273 (office phone)"
    ]
   },
   {
@@ -46,13 +49,24 @@
     "  [Orcid](https://orcid.org/0000-0002-9289-7462),\n",
     "  [wordpress](https://01law.wordpress.com/),\n",
     "  [GitRepos](https://github.com/songqsh)\n",
-    "  \n",
+    "\n",
+    "- [Seminar on Financial Math at WPI](http://labs.wpi.edu/cims/seminar-fm/)\n",
+    "\n",
+    "- [Collquium at WPI Math](https://sites.google.com/site/wpimacolloquium/)\n",
+    "\n",
+    "- Workshop on Stochastic Analysis and Related Fields: \n",
+    "[2020](https://sites.google.com/view/stochastic-analysis), [2021](https://sites.google.com/view/stochastic-analysis2021)\n",
+    "\n",
     "- [MQP2019](https://github.com/songqsh/MQP2019),\n",
-    "\n",
-    "- [Seminar on Financial Seminar at WPI Math](http://labs.wpi.edu/cims/seminar-fm/)\n",
-    "\n",
-    "- [Collquium at WPI Math](https://sites.google.com/site/wpimacolloquium/)\n"
+    "\n"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
@@ -76,7 +90,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.7.4"
+   "version": "3.7.7"
   }
  },
  "nbformat": 4,
