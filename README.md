@@ -11,3 +11,6 @@ My name is Kaden Chen, and I'm a Junior(11th) at Westborough High School who is 
 - 2024 AIME Qualified, Scored 9.
 - 2023 MA Math Olympiad Finalist
 - Placed 6th in the Worcester County Mathematics League 2023-2024
+
+  Here is a test for latex:
+  $a+b=c^2$
